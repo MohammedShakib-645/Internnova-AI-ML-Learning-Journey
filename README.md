@@ -1,4 +1,3 @@
-
 # Internnova — AI & Machine Learning Learning Journey
 
 ## About
@@ -17,15 +16,12 @@ This repository contains my weekly assignments, practical exercises, and project
 
 ### Week 1 — Introduction to Artificial Intelligence & Python
 
-Topics covered:
-
 * Introduction to Artificial Intelligence
 * Types of AI: ANI, AGI, and ASI
 * AI vs Machine Learning vs Deep Learning
 * Real-life applications of AI
 * Python for AI
 * NumPy and Pandas
-* Python variables, data types, user input, and operators
 * AI Case Study: ChatGPT
 * Rule-Based AI Chatbot
 
@@ -34,6 +30,18 @@ Topics covered:
 Coming soon.
 
 ### Week 3
+
+Coming soon.
+
+### Week 4
+
+Coming soon.
+
+### Week 5
+
+Coming soon.
+
+### Week 6
 
 Coming soon.
 
@@ -50,13 +58,15 @@ Internnova-AI-ML-Learning-Journey/
 │   └── students.csv
 │
 ├── Week-2/
-│
 ├── Week-3/
+├── Week-4/
+├── Week-5/
+├── Week-6/
 │
 └── README.md
 ```
 
-## Technologies Used
+## Technologies
 
 * Python
 * NumPy
@@ -67,7 +77,7 @@ Internnova-AI-ML-Learning-Journey/
 
 ## Goal
 
-To develop practical skills in Artificial Intelligence, Machine Learning, Python programming, data analysis, and AI-based projects through weekly hands-on assignments.
+To develop practical skills in Artificial Intelligence, Machine Learning, Python programming, data analysis, and AI-based projects through six weeks of hands-on learning.
 
 ---
 
