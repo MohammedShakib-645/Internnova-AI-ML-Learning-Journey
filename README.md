@@ -31,11 +31,11 @@ ai_week_1/
 ├── task3.py
 └── welcome.py
 
-week_2/
-week_3/
-week_4/
-week_5/
-week_6/
+week_2/ - Coming soon
+week_3/ - Coming soon
+week_4/ - Coming soon
+week_5/ - Coming soon
+week_6/ - Coming soon
 ```
 
 ## Contact
