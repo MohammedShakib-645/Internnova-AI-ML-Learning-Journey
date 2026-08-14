@@ -1,4 +1,4 @@
-﻿# Internnova ΓÇö AI & Machine Learning Learning Journey
+# Internnova – AI & Machine Learning Learning Journey
 
 ## About
 
@@ -14,71 +14,24 @@ This repository contains my weekly assignments, practical exercises, and project
 
 ## Weekly Progress
 
-### Week 1 ΓÇö Introduction to Artificial Intelligence & Python
+### Week 1 – Introduction to Artificial Intelligence & Python
 
-* Introduction to Artificial Intelligence
-* Types of AI: ANI, AGI, and ASI
-* AI vs Machine Learning vs Deep Learning
-* Real-life applications of AI
-* Python for AI
-* NumPy and Pandas
-* AI Case Study: ChatGPT
-* Rule-Based AI Chatbot
+- Introduction to Artificial Intelligence
+- Types of AI: ANI, AGI, and ASI
+- Python basics and fundamentals
+- Programming exercises
 
-### Week 2
+## Folder Structure
 
-Coming soon.
-
-### Week 3
-
-Coming soon.
-
-### Week 4
-
-Coming soon.
-
-### Week 5
-
-Coming soon.
-
-### Week 6
-
-Coming soon.
-
-## Repository Structure
-
-```text
-Internnova-AI-ML-Learning-Journey/
-Γöé
-Γö£ΓöÇΓöÇ Week-1/
-Γöé   Γö£ΓöÇΓöÇ AI_Week-1.pdf
-Γöé   Γö£ΓöÇΓöÇ task3.py
-Γöé   Γö£ΓöÇΓöÇ chatbot.py
-Γöé   Γö£ΓöÇΓöÇ welcome.py
-Γöé   ΓööΓöÇΓöÇ students.csv
-Γöé
-Γö£ΓöÇΓöÇ Week-2/
-Γö£ΓöÇΓöÇ Week-3/
-Γö£ΓöÇΓöÇ Week-4/
-Γö£ΓöÇΓöÇ Week-5/
-Γö£ΓöÇΓöÇ Week-6/
-Γöé
-ΓööΓöÇΓöÇ README.md
+```
+ai_week_1/
+├── AI_week_1.pdf
+├── chatbot.py
+├── students.csv
+├── task3.py
+└── welcome.py
 ```
 
-## Technologies
+## Contact
 
-* Python
-* NumPy
-* Pandas
-* Jupyter Notebook
-* Visual Studio Code
-* Git & GitHub
-
-## Goal
-
-To develop practical skills in Artificial Intelligence, Machine Learning, Python programming, data analysis, and AI-based projects through six weeks of hands-on learning.
-
----
-
-**Learning by building, one week at a time. ≡ƒÜÇ**
+For any queries or feedback, feel free to reach out!
