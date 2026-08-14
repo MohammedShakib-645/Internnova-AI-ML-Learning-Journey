@@ -30,6 +30,12 @@ ai_week_1/
 ├── students.csv
 ├── task3.py
 └── welcome.py
+
+week_2/
+week_3/
+week_4/
+week_5/
+week_6/
 ```
 
 ## Contact
