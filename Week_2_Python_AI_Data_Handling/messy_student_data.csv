@@ -1,0 +1,21 @@
+Student_ID,Name,Gender,Age,Math,Science,English,Attendance
+S001,Mohammed Shakib,Male,20,85,78,82,92
+S002,Priya Sharma,Female,19,72,68,75,88
+S003,Rahul Verma,Male,twenty-one,90,95,88,95
+S004,Anjali Singh,Female,20,,60,65,78
+S005,Arjun Patel,Male,19,40,,50,70
+S006,Sneha Reddy,Female,21,78,80,72,
+S007,Karthik Nair,Male,20,95,92,90,98
+S008,Divya Mehta,Female,19,35,40,,65
+S009,Rohit Kumar,Male,22,62,58,70,80
+S010,Pooja Iyer,Female,20,88,85,80,90
+S002,Priya Sharma,Female,19,72,68,75,88
+S011,Vikram Rao,Male,21,45,50,48,72
+S012,,Female,19,70,75,68,82
+S013,Aditya Joshi,Male,20,82,,85,88
+S007,Karthik Nair,Male,20,95,92,90,98
+S014,Meera Pillai,Female,22,58,62,55,75
+S015,Suresh Guptha,Male,20,92,88,86,96
+S016,Lakshmi Devi,Female,19,30,35,32,
+S017,Nikhil Bansal,Male,21,,72,65,83
+S018,Riya Tiwari,Female,twenty,76,70,78,87
